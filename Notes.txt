@@ -1,0 +1,27 @@
+Installer l'extenstion live server dans VS Code.
+Free Logo maker (SITE INTERNET:logomakr.com)
+Photobucket(site internet)
+crop-circle.imageonline.co(image en forme de cercle)
+cellpadding: espace a linterieur de la cellule
+cellspacing: espace entre colonne d4un tableau
+
+Utilisation de GitHub
+Creation Compte
+Creation du repository(CV)
+Deposer notre dossier MyWebSite dans le compte github
+Lancer ces fichiers depuis GitHub et modifier si besoin
+
+Partie CSS
+Color Hunt:Pour les couleurs et les differentes valeurs hexadecimales
+On doit installer l'extension pesticide for chrome, on active l'extension(avec ca on voit directement comment les differents elements sont disposés)
+Emojipedia pour trouver certaines images
+les id commence par #,alors que la classe commence par un .(point) 
+Difference entre id et class: Un element peut apartenir a plusieurs class, par contre on a qu'un seul id
+favicon.cc
+les div permettent de diviser les pages
+codepen.io(organiser directement la page html)
+la balise p ft un retour a la ligne, mais pas le span
+
+JAVA SCRIPT
+Document Object Model(DOM):
+typeof retourne le type de variable
